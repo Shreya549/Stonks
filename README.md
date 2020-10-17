@@ -1,1 +1,2 @@
-# Stock-Prediction
+# Stock Prediction
+[![GitHub last commit](https://img.shields.io/github/last-commit/Shreya549/stonks?style=social&logo=git)](https://github.com/Shreya549/) [![GitHub stars](https://img.shields.io/github/stars/Shreya549/Stonks?style=social)](https://github.com/Shreya549/Stonks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Shreya549/Stonks?style=social&logo=git)](https://github.com/Shreya549/Stonks/network)
